@@ -1,0 +1,2 @@
+total 0
+0 -rw-r--r-- 1 Alok 197609 0 Sep 15 10:46 test.txt

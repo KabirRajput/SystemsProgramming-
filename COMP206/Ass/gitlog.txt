@@ -1,0 +1,41 @@
+commit ae982824e44353f5936235648e5623b0bf70fc25
+Author: Kabir RAJPUT <kraput@linux.CS.McGill.CA>
+Date:   Sun Nov 26 23:06:58 2017 -0500
+
+    indented file
+
+commit 9cfbd6f48856c478d1a37d14e420fccb8004db5e
+Author: Kabir RAJPUT <kraput@linux.CS.McGill.CA>
+Date:   Sun Nov 26 23:06:23 2017 -0500
+
+    added EXIT_SUCCESS & EXIT_FAILURE macros instead of 0 & 1
+
+commit 3eec165d48a542b245c4cdaa700f4f5fe309c70d
+Author: Kabir RAJPUT <kraput@linux.CS.McGill.CA>
+Date:   Sun Nov 26 23:02:33 2017 -0500
+
+    list.h indented
+
+commit 4ceab85f35ee494033215d6dfde689e465234fed
+Author: Kabir RAJPUT <kraput@linux.CS.McGill.CA>
+Date:   Sun Nov 26 22:49:40 2017 -0500
+
+    removed bug- where head was NULL all the time
+
+commit ed2edba2a5d50df8a9fd65677dcd9d00c6812c01
+Author: Kabir RAJPUT <kraput@linux.CS.McGill.CA>
+Date:   Sun Nov 26 22:38:31 2017 -0500
+
+    removed the while loop error
+
+commit 11b98f2a462d64218d1a510db40b604e72507032
+Author: Kabir RAJPUT <kraput@linux.CS.McGill.CA>
+Date:   Sun Nov 26 22:12:10 2017 -0500
+
+    changed the makefile
+
+commit 559b17b70928f10fff3a7fbe37b0c8f0e465b181
+Author: Kabir RAJPUT <kraput@linux.CS.McGill.CA>
+Date:   Sun Nov 26 21:57:35 2017 -0500
+
+    made the basic model of the program

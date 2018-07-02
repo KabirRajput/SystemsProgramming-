@@ -1,0 +1,8 @@
+assignment6: Producer.o Consumer.o main.o
+	gcc -o assignment6 Producer.o Consumer.o main.o
+Producer.o: Producer.c
+	gcc -c Producer.c
+Consumer.o: Consumer.c
+	gcc -c Consumer.c
+main.o: main.c
+	gcc -c main.c

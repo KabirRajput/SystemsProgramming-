@@ -1,0 +1,23 @@
+commit 7a6a40e65f3bc67b5583876d5e14b29e67540476
+Author: Kabir RAJPUT <kraput@linux.CS.McGill.CA>
+Date:   Thu Dec 7 15:12:45 2017 -0500
+
+    added 1 extra line to mydata to test- it works!
+
+commit aed6079d5faea7cedb4120d99b78edcb038f3d54
+Author: Kabir RAJPUT <kraput@linux.CS.McGill.CA>
+Date:   Thu Dec 7 15:11:47 2017 -0500
+
+    added final comments before submission
+
+commit 9c91225ed51de41a2a4599262a0bbb89474e4a62
+Author: Kabir RAJPUT <kraput@linux.CS.McGill.CA>
+Date:   Thu Dec 7 15:07:45 2017 -0500
+
+    Kabir_Rajput Chris_Chan
+
+commit f40034ed4265536021925b9d7b3b0ae8547a09d7
+Author: Kabir RAJPUT <kraput@linux.CS.McGill.CA>
+Date:   Thu Dec 7 00:49:55 2017 -0500
+
+    producer.c init commit
